@@ -20,3 +20,41 @@
            /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
            /> </div> 
     </div>
+
+
+
+## 💻 Selected Development Projects
+
+| Project | Period | Description | Link |
+| :--- | :---: | :--- | :---: |
+| **K-Fitness Web** | 2023 | 교내 헬스장 홍보 및 정보 제공을 위한 웹 서비스 | [Details]([https://github.com/your-id/repository-name](https://github.com/Blue-Dragonsss/K-Fitness)) |
+
+<details>
+<summary><b>Other Development Projects</b></summary>
+
+<br/>
+
+| Project | Period | Description | Link |
+| :--- | :---: | :--- | :---: |
+| 프로젝트명 | 202X | 프로젝트에 대한 간단한 설명 | [Details](https://github.com/your-id/repository-name) |
+
+</details>
+
+---
+
+## 🏆 Awards
+
+* **** —  *()* `202` · [Certificate](https://)
+
+---
+
+* ## 🎓 Experience
+
+### Sangmyung University — Department of Software
+`2023.03 — Present`
+
+---
+
+## 📜 Certifications & Learning
+
+* **SQLD** — DateBase `2026.04`
